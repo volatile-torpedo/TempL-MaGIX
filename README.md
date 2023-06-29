@@ -40,4 +40,13 @@ Result:
 
 ![image](https://github.com/volatile-torpedo/Word-StyleFrame/assets/106129332/ae6f2204-5e91-4acd-885c-8462b7fade69)
 
-What should you do instead? Simple, if you want to maintain the integrity (style, font, contents) of the document by making it read-only, then export it as a PDF! Additionaly, digitally sign the PDF and set it to block annotations
+**What should you do instead?** Simple, if you want to maintain the integrity (style, font, contents) of the document by making it read-only, then export it as a PDF! Additionaly, digitally sign the PDF and set it to block annotations
+
+### Documents stored in SharePoint and Teams are unreadable when opening with the desktop app
+Yes, even this far along, documents can be corrupted when editted by multiple people concurrently. This is especially true with complex documents with multiple styles and using fonts that aren't built in to the application during the initial install.
+
+When it happens, and everyone else is running into the same thing, then you can try to repair it, then copy and paste the contents nito a new document. Then overwrite the original with the new version while keeping a backup of it for when it happens again.
+
+** What should I do instead?** Use the Check-Out and Check-In feature. This will prevent multiple people from opening it in edit mode. When you check out a file from a SharePoint document library, only you can edit it. You can edit the file offline and save your changesbefore checking the file back in. Once you're done making changes to the file, check it in from the library to uplooad your changes.You can also disregard them. 
+
+> ℹ️ **Note** When you check out a file, nothing happens to it. The file is still stored in the library. It's just marked to show that you have exclusive editing rights until you check it back in. To edit it, you must download the document or edit it online. How you edit or update the file depends on the type of file. If it's a Word document, you can use Word in Microsoft 365 or your desktop copy of Word. For a file that isn't an Microsoft 365 format, download the file and use whatever editor you normally use for that format.
