@@ -6,6 +6,11 @@
 - [ ] Update autocorrects for all three to include the {{gap}}
 - [ ] Remove Coretek logo from document
 - [ ] Remove sensitivity from document
+- [ ] Update "Next Steps":
+  - Rename Timeline to Timeframe
+  - Rename Urgency to Impact or Risk
+  - Rename Importance to Priority
+  - Remove "VCW"
 
 
 ## Decision, Limitation and Note blocks
@@ -13,7 +18,7 @@
 - [ ] Remove bold from the opening words
 - [ ] Double check the Language and spell check on those styles.
 - [ ] Remove "automatically update" from the style definition
-- [ ] 
+- [ ] Create custom bullets from graphics to open the custom blocks
 
 
 ## ℹ️ Tips
