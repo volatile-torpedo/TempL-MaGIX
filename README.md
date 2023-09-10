@@ -1,4 +1,6 @@
-- [ ] 🚧 Move all instructions here
+**Template Library - Markup and Generation of Improved Documentation**
+📃Microsoft Word template that includes styles and several elements to create professional technical documents. 💡Equally useful, the instructions include a variety of tips to create and manage document templates. 
+
 
 # 🚧 TO DO
 
